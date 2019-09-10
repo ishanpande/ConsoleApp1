@@ -1,0 +1,6 @@
+﻿use m for monetory values ex. sales = 0.5m
+decimal.Parse(input) -> converts string input to decimal type
+Strin.Format("{0:C}",sales) -> Converts to currency , automatically puts the $ dollar symbol
+try catch
+else if
+switch case
